@@ -10,7 +10,7 @@ It is part of **Bitcade**, my series of browser arcade games. It plays on phones
 no sign-up. I made it for Castro's Decibel community campaign. It is an unofficial fan game: GTA 6 is named only as a
 fan reference, and there is no Rockstar art or logo in it.
 
-**Version 2.5.1. Launching Thursday, November 12, 2026.**
+**Version 2.6.6. Launching Thursday, November 12, 2026.**
 
 ![Coral Cays: the Decibel airliner flies over the road](docs/gifs/coral_cays_flyover.gif)
 
@@ -43,11 +43,21 @@ faster you go, the faster the download fills.
 - **NOW ENTERING banners** for every new area, and Banger shouting along: WOO!, BOOM!, OOF!, KA-CHING! and more.
 - **DOWNLOAD COMPLETE** with fireworks and confetti over the skyline, then **endless mode**: a harder level every
   30 seconds.
-- **Global leaderboard** with exact ranks. If you land outside the top 20 you still see your own rank.
+- **Global leaderboard** with exact ranks. The game over screen shows the full top 20, and if you land outside it
+  your own row sits right below. A yellow star next to a name means that run finished all six areas.
 - **Play as anonymous or pick a name.** Your leaderboard name is the only thing you choose.
 - **Fair scores.** Every run is replayed on the server with the same game code before it is ranked.
 - **Share your run** with one tap.
 - **An original soundtrack** that crossfades on the beat as you enter each new area.
+
+## What's new in 2.6.6
+
+- The DECIBEL lettering on the Sugar Flats plane stays sharp up close.
+- I restyled the intro text cards and the credit as neon banners, and the @ in the credit reads properly on phones.
+- Cleaner car: no speckles on the sides, no tread lines on the body, and a yellow BANGER plate on every paint.
+- No more floating scenery strip above the horizon in any area.
+- The NEW PAINT UNLOCKED popup fades out after about 2 seconds.
+- The board shows all 20 rows plus your own, with a star for runs that finished.
 
 ## How to play
 
@@ -89,7 +99,7 @@ and the connection is lost. Speed arrows give you the boost shield, and signal p
 
 | The finish | Game over |
 | --- | --- |
-| ![DOWNLOAD COMPLETE, then endless mode](docs/gifs/download_complete.gif) | ![Game over with the top 20 and your rank](docs/screenshots/game_over.webp) |
+| ![DOWNLOAD COMPLETE, then endless mode](docs/gifs/download_complete.gif) | ![Game over with the top 20, a finisher star and your own row](docs/screenshots/game_over.webp) |
 
 ## Soundtrack
 
