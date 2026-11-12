@@ -10,7 +10,7 @@ It is part of **Bitcade**, my series of browser arcade games. It plays on phones
 no sign-up. I made it for Castro's Decibel community campaign. It is an unofficial fan game: GTA 6 is named only as a
 fan reference, and there is no Rockstar art or logo in it.
 
-**Version 2.5.0. Launching Thursday, November 12, 2026.**
+**Version 2.5.1. Launching Thursday, November 12, 2026.**
 
 ![Coral Cays: the Decibel airliner flies over the road](docs/gifs/coral_cays_flyover.gif)
 
@@ -33,9 +33,11 @@ faster you go, the faster the download fills.
 
 - **Six areas**, each with its own painted sky and roadside and one big moment of its own.
 - **Long levels** that start easy and ramp up: Coral Cays and Gator Bayou are the welcome, Neon City is the hard part.
-- **Boost shield.** A speed arrow gives you a few seconds of extra speed, a faster download and a bubble that smashes
-  through anything in your way.
+- **Boost shield.** A speed arrow gives you a few seconds of extra speed and a faster download. While it lasts the
+  car flashes neon colours and smashes through anything in its way, and the flashing speeds up just before it ends.
 - **Near-miss chains.** Skim past cars to chain close calls. Every fifth in a row is NEAR MISS X5 for +1000.
+- **Sharp roadside signs** with $TTWO, $SONY and $GME that stay readable at every distance, and scenery that fades
+  in smoothly instead of popping in.
 - **Traffic you can feel.** Cars, vans and motorcycles are solid, keep their distance from each other and only change
   lanes into free space.
 - **NOW ENTERING banners** for every new area, and Banger shouting along: WOO!, BOOM!, OOF!, KA-CHING! and more.
@@ -64,28 +66,30 @@ and the connection is lost. Speed arrows give you the boost shield, and signal p
 
 | # | Area | Its moment |
 | --- | --- | --- |
-| 1 | Coral Cays | The Decibel airliner flies low overhead |
+| 1 | Coral Cays | The Decibel airliner flies low overhead, livery and all |
 | 2 | Gator Bayou | A lightning storm over the wetlands |
-| 3 | Sugar Flats | A crop duster trailing dust |
+| 3 | Sugar Flats | A crop duster towing a DECIBEL banner |
 | 4 | Pine Ridge | A meteor shower over the hills |
 | 5 | Motel Coast | Seagulls across the sunset |
 | 6 | Neon City | Searchlights and lasers from the skyline |
 
 ![The six areas and their moments](docs/screenshots/areas.webp)
 
-| Pine Ridge meteor shower | Gator Bayou on desktop |
+| Sugar Flats banner plane | Pine Ridge meteor shower |
 | --- | --- |
-| ![Pine Ridge meteor shower](docs/gifs/pine_ridge_meteors.gif) | ![Gator Bayou in the storm](docs/screenshots/gator_bayou_desktop.webp) |
+| ![A crop duster towing a DECIBEL banner over Sugar Flats](docs/gifs/sugar_flats_banner_plane.gif) | ![Pine Ridge meteor shower](docs/gifs/pine_ridge_meteors.gif) |
+
+![Gator Bayou in the storm, on desktop](docs/screenshots/gator_bayou_desktop.webp)
 
 ## Boost shield
 
-![Neon City with the boost shield on](docs/gifs/neon_city_boost_shield.gif)
+![The car flashing neon colours during a boost](docs/gifs/boost_shield_flash.gif)
 
 ## Download complete
 
 | The finish | Game over |
 | --- | --- |
-| ![DOWNLOAD COMPLETE, then endless mode](docs/gifs/download_complete.gif) | ![Game over with the top 20 and your own rank](docs/screenshots/game_over_rank.webp) |
+| ![DOWNLOAD COMPLETE, then endless mode](docs/gifs/download_complete.gif) | ![Game over with the top 20 and your rank](docs/screenshots/game_over.webp) |
 
 ## Soundtrack
 
